@@ -4,8 +4,7 @@
 
 <!-- GETTING STARTED -->
 ## Getting Started
-
-This project encompasses the entire section of events in the course.  It will be organised as best a possible for viewability.
+This project encompasses the entire section of events in the course. It will be organized as best as possible for view ability.
 
 <!-- LICENSE -->
 ## License
