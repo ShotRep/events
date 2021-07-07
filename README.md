@@ -1,12 +1,6 @@
-## The Modern Javascript Bootcamp Course (2021) - Events
+<h1 align="center">EVENTS</h1>
 
-# The Modern Javascript Bootcamp Course (2021) - Events
- 
-  <h3 align="center">EVENTS</h3>
-
-  <p align="center">
-    An awesome README template to jumpstart your projects!
-    
+<h3 align="center">The Modern Javascript Bootcamp Course (2021)</h3>    
 
 <!-- GETTING STARTED -->
 ## Getting Started
