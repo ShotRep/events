@@ -1,22 +1,77 @@
-.btn2{
-  position: absolute;
-  top: 80px;
-  left:90px;
+/*/////////////////////////////////////CSS RESET*/
+
+* {
+  border: 0px red solid; /*set before and after creating site*/
+  max-width: 100%; /*keeps from side scrolling*/
+  box-sizing: border-box; /*Fixes sizing when using padding*/
+  margin: 0;
+  padding: 0;
+  font-size: 100%;
+  vertical-align: baseline;
 }
 
-#boxes{
+/*GENERAL CSS STYLES*/
+
+html {
+  font-size: 62.5%;
+}
+body {
+  font-size: 1.5rem;
+  color: #4f4f4f;
+  line-height: 1.5;
+  font-family: "PT Sans", sans-serif;
+  background-color: #fffafa;
+  border: 1px solid black;
+}
+h1,
+h2,
+h3 {
+  font-family: "Nunito", sans-serif;
+}
+h1 {
+  font-size: 4rem;
+}
+h2 {
+  font-size: 3rem;
+}
+h3 {
+  font-size: 2rem;
+}
+a {
+  text-decoration: none;
+  color: #4f4f4f;
+}
+
+/* /////////////////////////////////PAGE CSS STYLES/ */
+
+.btn2 {
+  position: absolute;
+  top: 80px;
+  left: 90px;
+  border: #aa0025 solid 2px;
+}
+
+#boxes {
   display: flex;
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
 }
 
-.box{
+.box {
   width: 200px;
   height: 200px;
-  }
+}
 
-  .pac{
-    text-align: center;
-    font-size: 100px;
-  }
+.pac {
+  text-align: center;
+  font-size: 100px;
+}
+
+#username {
+  border: #4e2ffa solid 5px;
+}
+
+#addItem {
+  border: #4e2ffa solid 5px;
+}
